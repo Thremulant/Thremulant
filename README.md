@@ -1,18 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Daniel
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=ruby)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thremulant)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Thremulant/Thremulant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with a strong focus on front-end architecture and design systems. I specialize in building scalable applications using modern frameworks like **React**, **Next.js**, and **Angular**, often paired with **Strapi**, **Node.js**, and **Sanity.io** on the backend.
 
-Here are some ideas to get you started:
+## 🔧 What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Migrating legacy codebases into modular, API-driven platforms  
+- Creating and maintaining reusable component libraries with **Storybook**  
+- Developing multilingual corporate websites for international expansion  
+- Building secure, AI-integrated applications with **Auth0** and custom REST APIs  
+- Implementing real-time systems using **Twilio**, **blockchain**, and contactless tech
+
+## 🚀 About Me
+
+I'm passionate about improving developer experience, streamlining feature delivery, and collaborating across teams to bring ideas to life—faster and smarter.
+
+<!-- You can customize this further or add GitHub stats, pinned projects, or badges -->
